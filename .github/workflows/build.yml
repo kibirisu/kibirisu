@@ -20,7 +20,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 365
-          plugin_wakatime_sections: time, languages, languages-graph
+          plugin_wakatime_sections: time, languages, languages-graphs, projects, projects-graphs
           plugin_wakatime_limit: 5
           plugin_wakatime_url: https://waka.wabisabi.cafe
           plugin_wakatime_user: kibirisu
