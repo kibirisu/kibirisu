@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+Migrated to [Codeberg](https://codeberg.org/kibirisu).
+
 ![Metrics](/github-metrics.svg)
 <!--
 **kibirisu/kibirisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
