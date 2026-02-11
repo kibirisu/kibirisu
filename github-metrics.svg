@@ -252,7 +252,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">Rust</span>
-                                <div class="bar" style="width: 16.856%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.880000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
@@ -282,17 +282,17 @@
                             </div>
                             <div class="entry">
                                 <span class="name">unknown</span>
-                                <div class="bar" style="width: 21.375999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 21.352000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">spotted</span>
-                                <div class="bar" style="width: 4.832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">neiro</span>
-                                <div class="bar" style="width: 2.984%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.0079999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
@@ -306,7 +306,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Feb 2026, 02:08:50  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2026, 02:04:48  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
